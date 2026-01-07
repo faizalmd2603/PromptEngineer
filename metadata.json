@@ -1,0 +1,7 @@
+{
+  "name": "PromptEngineer",
+  "description": "A professional AI-powered prompt engineering platform for generating structured, high-quality prompts for any model or platform.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
